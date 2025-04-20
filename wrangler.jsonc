@@ -49,7 +49,7 @@
     "production": {
       "routes": [
         {
-          "pattern": "UPDATE_ME_PROD_URL",
+          "pattern": "status.wuts.cc",
           "custom_domain": true
         }
       ],
@@ -60,7 +60,7 @@
         {
           "binding": "DB",
           "database_name": "uptime-monitor-prod",
-          "database_id": "UPDATE_ME_D1_ID",
+          "database_id": "67e87b9d-29ea-43c5-9a05-dd947618672f",
           "migrations_dir": "src/db/migrations"
         }
       ],
