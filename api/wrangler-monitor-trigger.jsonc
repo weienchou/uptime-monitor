@@ -65,7 +65,7 @@
           {
             "name": "MONITOR_TRIGGER",
             "class_name": "MonitorTrigger",
-            "script_name": "monitor-trigger-production"
+            "script_name": "uptime-monitor"
           }
         ]
       }
