@@ -57,7 +57,7 @@
       "services": [
         {
           "binding": "MONITOR_EXEC",
-          "service": "monitor-exec-production"
+          "service": "uptime-monitor"
         }
       ],
       "durable_objects": {

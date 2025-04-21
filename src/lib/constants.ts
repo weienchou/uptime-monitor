@@ -3,7 +3,7 @@ import { createMessageObjectSchema } from "stoker/openapi/schemas"
 import { z } from "zod"
 
 export const PRE_URL = "UPDATE_ME_PRE_URL"
-export const PROD_URL = "UPDATE_ME_PROD_URL"
+export const PROD_URL = "status.wuts.cc"
 
 export const ZOD_ERROR_MESSAGES = {
   REQUIRED: "Required",
